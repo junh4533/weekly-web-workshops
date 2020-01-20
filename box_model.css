@@ -1,0 +1,10 @@
+#box{
+    width:50vw;
+    height:50vw;
+    background: orange;
+    border: 1em solid red;
+    padding: 1em 1em 1em 1em;
+    /* margin-left: 100px; */
+    margin: auto;
+    /* position: relative; */
+}

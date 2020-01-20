@@ -1,0 +1,24 @@
+.carousel-indicators li {
+    background-color: #669966;
+}
+
+.carousel-indicators .active {
+    background-color: #FF7600;
+}
+
+.carousel-item img, #flower_carousel{
+    width:80vw;
+    height: 80vh;
+}
+
+#flower_carousel{
+    margin:auto;
+}
+.carousel-control-prev, .carousel-control-next{
+    /* width:500px; */
+
+}
+
+.carousel-control-prev-icon {
+    background-image: url("images/flower.jpg");
+}
